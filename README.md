@@ -88,6 +88,8 @@ npm run dev
 
 **Note:** Due to time constraints, the majority of the UI and some crucial functionalities were not successfully implemented, but a proof of its concept and flow of operation is attached here.
 
+[LivepeerAI Frontend](https://github.com/starktrix/livepeerai-frontend)
+
 1. **Login / Signup Page**
    ![login page](./images/login.png)
    ![sign up](./images/signup.png)
